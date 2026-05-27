@@ -20,3 +20,4 @@ torch
 urllib3
 plotly
 nbformat
+mlflow
