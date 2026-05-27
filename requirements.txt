@@ -21,3 +21,6 @@ urllib3
 plotly
 nbformat
 mlflow
+sentence-transformers
+faiss-cpu
+ipykernel
