@@ -20,3 +20,6 @@ torch
 urllib3
 plotly
 nbformat
+sentence-transformers
+faiss-cpu
+ipykernel
